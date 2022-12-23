@@ -1,0 +1,27 @@
+1. В demo есть 2 commits, которых нет в master:
+merge boots в release
+merge buttons в demo
+2. В master есть 5 commits, которых нет в demo:
+fix readme
+merge удаленного branch origin/boots в boots_buttons
+merge удаленного branch origin/buttons в boots_buttons
+merge удаленного branch origin/hat в boots_buttons
+merge boots_buttons в main
+
+5 коммитов в ветке master
+init
+heat added
+README added
+fix readme
+Merge remote-tracking branch 'origin/hat'
+
+7 коммитов в ветке boots_buttons
+init
+boots
+README added
+dots
+fix readme
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+
+ВЕГО 12 КОММИТОВ
